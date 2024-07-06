@@ -81,7 +81,7 @@ DATABASES = {
         'USER': 'web_academia',
         'PASSWORD': 'dario10',
         'HOST': 'localhost',
-        'PORT': '5436',
+        'PORT': '5432',
     }
 }
 
