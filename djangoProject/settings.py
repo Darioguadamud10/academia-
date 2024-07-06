@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'djangoProject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': '.venv',
+        'NAME': 'academia',
         'USER': 'web_academia',
         'PASSWORD': 'dario10',
         'HOST': 'localhost',
